@@ -1,76 +1,69 @@
-<h1 align="center"><b>Hi , I'm Andre Acosta Medina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><p align="center">🌐 Developer Junior | 🧠 Continuous Learner | 💻 Passionate About Clean Code</p>
-
+<div align="center">
+  <a href="https://github.com/LouguiAcostaMedina">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+      <img src="assets/banner-dark.svg" width="960" alt="Andre Acosta - city-pop developer terminal">
+    </picture>
+  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=F78CBE&center=true&vCenter=true&width=850&lines=Andre+Acosta+Medina+%7C+Software+Developer;Backend+%E2%80%A2+Full+Stack+%E2%80%A2+Mobile;Java+%7C+Spring+Boot+%7C+React+%7C+Kotlin;Building+software+with+care+and+curiosity" alt="Animated developer introduction">
+<img src="https://komarev.com/ghpvc/?username=LouguiAcostaMedina&style=flat&color=f78cbe&label=profile+views" alt="Profile views">
+</div>
 ---
-<img align="right" width="400" alt="Shimarin" src="https://preview.redd.it/does-anyone-have-this-picture-in-high-quality-v0-5b18apvn7uhd1.jpeg?width=640&crop=smart&auto=webp&s=9225e5d6bac4b816313acafe492d442483c1b947"/>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+`$ whoami`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
+    <img src="assets/whoami-dark.svg" width="960" alt="Terminal with Andre Acosta's background">
+  </picture>
+</p>
+I'm a Systems Engineering student and software developer interested in building practical, maintainable solutions. I enjoy backend architecture, modern web applications, cross-platform mobile development, databases and automation.
+🎓 Studying Systems Engineering at Universidad Peruana Unión (UPeU).
+🔭 Working on academic and personal software projects.
+🌱 Exploring DevOps, CI/CD, software architecture and AI.
+📫 Contact: lougui.acosta@upeu.edu.pe.
+🌐 Visit my portfolio.
+---
+`$ cat tech-stack.yaml`
+<div align="center">
+<table>
+<tr><th colspan="2" align="left"><code>andre@dev:~$ cat tech-stack.yaml</code></th></tr>
+<tr>
+<td width="50%" valign="top"><code>├─ languages:</code><br><br><img src="https://skillicons.dev/icons?i=java,js,ts,python,kotlin,dart,html,css" alt="Java, JavaScript, TypeScript, Python, Kotlin, Dart, HTML, CSS"><br><sub>Java · JavaScript · TypeScript · Python · Kotlin · Dart</sub></td>
+<td width="50%" valign="top"><code>├─ backend_frameworks:</code><br><br><img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Spring Boot, Node.js and Express"><br><sub>Spring Boot · Node.js · Express · REST APIs</sub></td>
+</tr>
+<tr>
+<td valign="top"><code>├─ frontend_mobile:</code><br><br><img src="https://skillicons.dev/icons?i=react,angular,flutter,vite" alt="React, Angular, Flutter and Vite"><br><sub>React · Angular · Flutter · Kotlin Multiplatform</sub></td>
+<td valign="top"><code>├─ data_storage:</code><br><br><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" alt="PostgreSQL, MySQL, MongoDB, Firebase and Supabase"><br><sub>PostgreSQL · MySQL · MongoDB · Firebase · Supabase</sub></td>
+</tr>
+<tr>
+<td valign="top"><code>├─ devops_tooling:</code><br><br><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash" alt="Docker, Git, GitHub, GitHub Actions, Linux and Bash"><br><sub>Docker · Git · GitHub · CI/CD · Linux</sub></td>
+<td valign="top"><code>╰─ editors_deployment:</code><br><br><img src="https://skillicons.dev/icons?i=vscode,idea,postman,vercel,netlify" alt="VS Code, IntelliJ, Postman, Vercel and Netlify"><br><sub>VS Code · IntelliJ IDEA · Postman · Vercel · Netlify</sub></td>
+</tr>
+<tr><td colspan="2"><code>status: learning_every_day | environment: build_and_improve</code></td></tr>
+</table>
+</div>
+---
+`$ ./scan-skills.sh`
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg"><img src="assets/radar-dark.svg" width="400" alt="Development focus radar"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg"><img src="assets/radar-langs-dark.svg" width="400" alt="Languages interest radar"></picture>
+</p>
+<p align="center"><sub><code>radars: illustrative areas of focus, not proficiency certifications</code></sub></p>
+---
+`$ git log --stats`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LouguiAcostaMedina&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouguiAcostaMedina&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top GitHub languages">
+</div>
+> Stats depend on third-party services and may occasionally be unavailable. Language percentages represent public repository code, not proficiency.
+---
+`$ connect --socials`
+<div align="center">
+  <a href="https://acosta-portafolio-2025.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-f78cbe?style=for-the-badge&logo=vercel&logoColor=1a1a2e" alt="Portfolio"></a>
+  <a href="https://github.com/LouguiAcostaMedina"><img src="https://img.shields.io/badge/GitHub-c7a4f5?style=for-the-badge&logo=github&logoColor=1a1a2e" alt="GitHub"></a>
+  <a href="mailto:lougui.acosta@upeu.edu.pe"><img src="https://img.shields.io/badge/Email-76d8d2?style=for-the-badge&logo=gmail&logoColor=1a1a2e" alt="Email"></a>
+</div>
 <br>
-* 🎓 I am a computer engineering student
-
-* 🌱 🌱 I’m currently learning ...!
-  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-* 💼 Interested in **backend, frontend, mobile, AI**, and more.
-* 🔭 In my free time, I develop personal projects and contribute to open source.
-* 📫 You can visit my portfolio : [![Portafolio](https://img.shields.io/badge/-Portafolio-24292E?logo=githubpages&logoColor=white&style=flat)](https://acosta-portafolio-2025.vercel.app/)
-* 📫 Reach out to me at: <a href="lougui.acosta@upeu.edu.pe">lougui.acosta@upeu.edu.pe</a>
-
----
-
-## My Skills Include
-
-* **Languages**:
- 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-* **📚 Frameworks, Platforms and Libraries**:
-  
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-* **Cloud Hosting**:
-    
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-   - **💾 Databases**:
-    
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-* **Software and Tools**:
-    
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-<br>   
-<br>   
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LouguiAcostaMedina&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouguiAcostaMedina&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LouguiAcostaMedina&theme=material-palenight" />
-</p>
-
----
-⭐ Thanks for visiting my profile. Happy coding! 🚀
+<div align="center"><sub>Made with ☕, clean code and late-night inspiration • Andre Acosta Medina 🇵🇪</sub></div>
